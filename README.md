@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Zero-shot：对比8种prompt模板，选出最佳模板
-python src/zero_shot/prompt_comparison.py
+python src/zero_shot/zero_shot_full_eval.py
 
 # 2. Few-shot：纯图像原型 → 图文融合 → alpha消融
 python src/few_shot/few_shot_v1_image_only.py
@@ -76,7 +76,8 @@ chinese-food-vlm-classification/
 │
 ├── src/
 │   ├── zero_shot/
-│   │   └── prompt_comparison.py
+│   │   ├── zero_shot_demo.py
+│   │   └── zero_shot_full_eval.py
 │   ├── few_shot/
 │   │   ├── few_shot_v1_image_only.py
 │   │   ├── few_shot_v2_fusion.py
