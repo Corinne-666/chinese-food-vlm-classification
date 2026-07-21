@@ -1,0 +1,44 @@
+# ===== 数据集图片（体积大，不进仓库）=====
+food_dataset/split/
+food_dataset/*.jpg
+food_dataset/*.png
+*.jpg
+*.jpeg
+*.png
+!results/figures/*.png
+!data/*.png
+
+# 原始/未清洗的标注CSV，只保留清洗后的最终版本
+food_dataset/labels.csv
+food_dataset/wrong_samples_for_review.csv
+
+# ===== 模型权重（体积大，不进仓库；如需分享请用Git LFS或网盘链接）=====
+*.bin
+*.safetensors
+*.pt
+*.pth
+food_dataset/lora_weights*/
+
+# ===== Python 相关 =====
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# ===== 虚拟环境 =====
+venv/
+.venv/
+env/
+
+# ===== 系统/编辑器 =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== HuggingFace / 缓存 =====
+.cache/
+*.log

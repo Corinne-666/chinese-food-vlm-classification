@@ -1,0 +1,152 @@
+{
+  "001": {
+    "name": "mapodoufu",
+    "cn_name": "麻婆豆腐",
+    "cuisine": "川菜"
+  },
+  "008": {
+    "name": "tudoudundoujiao",
+    "cn_name": "土豆炖豆角",
+    "cuisine": "东北菜"
+  },
+  "014": {
+    "name": "labaicai",
+    "cn_name": "辣白菜",
+    "cuisine": "朝鲜族腌菜"
+  },
+  "029": {
+    "name": "tangzifanqie",
+    "cn_name": "糖渍番茄",
+    "cuisine": "鲁菜"
+  },
+  "035": {
+    "name": "basidigua",
+    "cn_name": "拔丝地瓜",
+    "cuisine": "鲁菜"
+  },
+  "037": {
+    "name": "ganbiandoujiao",
+    "cn_name": "干煸豆角",
+    "cuisine": "川菜"
+  },
+  "039": {
+    "name": "kuguaniangrou",
+    "cn_name": "苦瓜酿肉",
+    "cuisine": "湘菜"
+  },
+  "041": {
+    "name": "nianglajiao",
+    "cn_name": "酿辣椒",
+    "cuisine": "客家菜"
+  },
+  "046": {
+    "name": "zhamogu",
+    "cn_name": "炸蘑菇",
+    "cuisine": "东北菜"
+  },
+  "050": {
+    "name": "fanqiechaodan",
+    "cn_name": "番茄炒蛋",
+    "cuisine": "家常菜"
+  },
+  "053": {
+    "name": "zhengdangeng",
+    "cn_name": "蒸蛋羹",
+    "cuisine": "粤菜"
+  },
+  "056": {
+    "name": "shaola",
+    "cn_name": "烧腊",
+    "cuisine": "鲁菜"
+  },
+  "060": {
+    "name": "kelejichi",
+    "cn_name": "可乐鸡翅",
+    "cuisine": "家常菜"
+  },
+  "063": {
+    "name": "koushuiji",
+    "cn_name": "口水鸡",
+    "cuisine": "川菜"
+  },
+  "064": {
+    "name": "shaoya",
+    "cn_name": "烧鸭",
+    "cuisine": "粤菜"
+  },
+  "065": {
+    "name": "baiqieji",
+    "cn_name": "白切鸡",
+    "cuisine": "粤菜"
+  },
+  "070": {
+    "name": "lazijiding",
+    "cn_name": "辣子鸡丁",
+    "cuisine": "川菜"
+  },
+  "071": {
+    "name": "gongbaojiding",
+    "cn_name": "宫保鸡丁",
+    "cuisine": "川菜"
+  },
+  "077": {
+    "name": "hongshaorou",
+    "cn_name": "红烧肉",
+    "cuisine": "沪菜"
+  },
+  "079": {
+    "name": "luniurou",
+    "cn_name": "卤牛肉",
+    "cuisine": "鲁菜"
+  },
+  "080": {
+    "name": "fanqieniunan",
+    "cn_name": "番茄牛腩",
+    "cuisine": "家常菜"
+  },
+  "082": {
+    "name": "lajiaochaorou",
+    "cn_name": "辣椒炒肉",
+    "cuisine": "湘菜"
+  },
+  "083": {
+    "name": "meicaikourou",
+    "cn_name": "梅菜扣肉",
+    "cuisine": "粤菜"
+  },
+  "087": {
+    "name": "tangculiji",
+    "cn_name": "糖醋里脊",
+    "cuisine": "浙菜"
+  },
+  "088": {
+    "name": "boluogulurou",
+    "cn_name": "菠萝咕噜肉",
+    "cuisine": "粤菜"
+  },
+  "089": {
+    "name": "guobaorou",
+    "cn_name": "锅包肉",
+    "cuisine": "东北菜"
+  },
+  "111": {
+    "name": "duojiaoyutou",
+    "cn_name": "剁椒鱼头",
+    "cuisine": "湘菜"
+  },
+  "128": {
+    "name": "jiayutang",
+    "cn_name": "甲鱼汤",
+    "cuisine": "徽菜"
+  },
+  "141": {
+    "name": "roujiamo",
+    "cn_name": "肉夹馍",
+    "cuisine": "陕西小吃"
+  },
+  "191": {
+    "name": "maoxuewang",
+    "cn_name": "毛血旺",
+    "cuisine": "川菜"
+  }
+}
